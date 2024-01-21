@@ -10,4 +10,6 @@
     <string name="name">Name</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="register">Register</string>
+    <string name="logo">LOGO</string>
+    <string name="sign_in_to_continue">Sign in to continue.</string>
 </resources>

@@ -17,8 +17,6 @@ class RegisterActivity : AppCompatActivity() {
     }
 
     private fun setupEvents() {
-        binding.tvGoToLogin.setOnClickListener {
-            onBackPressed()
-        }
+
     }
 }
